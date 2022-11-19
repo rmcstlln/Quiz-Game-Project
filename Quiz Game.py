@@ -168,3 +168,5 @@ else:
     print("Incorrect!")
 print("")
 print("=========================================")
+
+print("You got " + str(score) + " questions correct!")

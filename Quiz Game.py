@@ -16,6 +16,11 @@ print("b. Penumbra")
 print("c. Hyperumbra")
 print("d. None of these")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 2
 print("2. What does DNA stands for?")
@@ -24,6 +29,11 @@ print("b. Deoxyribonulic acid")
 print("c. Folic acid")
 print("d. None of these")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 3
 print("3. What is length?")
@@ -32,6 +42,11 @@ print("b. The distance between 4 points")
 print("c. The distance between 1000 points")
 print("d. The distance between 2 points")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 4
 print("4. The concept of gravity was discovered by which famous physicist?")
@@ -40,6 +55,11 @@ print("b. Robert Boyle")
 print("c. Isaac Newton")
 print("d. Leonardo da Vinci")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 5
 print("5. You see your reflection in a mirror because?")
@@ -48,6 +68,11 @@ print("b. light is diffracted")
 print("c. light is reflected")
 print("d. light is refracted")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 6
 print("6. Which of these have positive charge and are found in the nucleus of an atom")
@@ -56,6 +81,11 @@ print("b. Protons")
 print("c. Electrons")
 print("d. Elements")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 7
 print("7. One complete revolution of earth around the sun is equal to approximately")
@@ -64,6 +94,11 @@ print("b. Month")
 print("c. Week")
 print("d. Day")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 8
 print("8. Which one of these isn't an organ in the human body?")
@@ -72,6 +107,11 @@ print("b. Kidney")
 print("c. Brain")
 print("d. Spatula")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 9
 print("9. How many bones are there in an adult human body?")
@@ -80,6 +120,11 @@ print("b. 98")
 print("c. 206")
 print("d. 872")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")
 
 # Question 10
 print("10. What do Venus and Mercury have in common?")
@@ -88,3 +133,8 @@ print("b. They don't have moons")
 print("c. They have nothing in common")
 print("d. Their surface temperature are exactly the same")
 answer = input("What is your answer? ")
+if answer.lower() == "c":
+    print("Correct!")
+    score += 1
+else:
+    print("Incorrect!")

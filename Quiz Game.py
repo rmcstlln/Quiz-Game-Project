@@ -15,6 +15,7 @@ print("a. Umbra")
 print("b. Penumbra")
 print("c. Hyperumbra")
 print("d. None of these")
+answer = input("What is your answer? ")
 
 # Question 2
 print("2. What does DNA stands for?")
